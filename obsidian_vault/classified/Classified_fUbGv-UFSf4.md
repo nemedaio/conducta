@@ -5,7 +5,7 @@ date: Unknown Date
 topics: ["Psicología Cognitiva"]
 ---
 # Summary
-soy muy drástico con esto y a lo mejor los demás con lo cual va a destruir esa ese día vas a saber lo que es la maldad
+ese día vas a saber lo que es la maldad va a ser tu peor pesadilla con lo cual cual es como una droga porque me la voy
 
 # Original Transcript
 [[fUbGv-UFSf4]]

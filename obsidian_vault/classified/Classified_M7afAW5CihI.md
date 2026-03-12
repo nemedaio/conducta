@@ -5,7 +5,7 @@ date: Unknown Date
 topics: ["Conductismo", "Psicología Cognitiva", "Psicología de la Salud / Clínica"]
 ---
 # Summary
-lo que empieza a contar el reloj va en se la ha hecho tarde y que no va a venir pregunta es si me de ser yo y le puse el
+final me pilla el toro o con la ansiedad se la ha hecho tarde y que no va a venir pregunta es si me de ser yo y le puse el
 
 # Original Transcript
 [[M7afAW5CihI]]

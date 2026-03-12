@@ -5,7 +5,7 @@ date: Unknown Date
 topics: ["Psicología Cognitiva"]
 ---
 # Summary
-la persona está muy cercana a mí me cercano a mí ya por lo que tú decías tú tienes una pareja y en un determinado
+cercano a mí ya por lo que tú decías tú tienes una pareja y en un determinado rompas el vínculo con esa persona y que
 
 # Original Transcript
 [[PC8h_ciuW2s]]

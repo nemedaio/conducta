@@ -5,7 +5,7 @@ date: Unknown Date
 topics: ["Psicología Cognitiva"]
 ---
 # Summary
-digamos que a lo mejor si los tiene pero y esa puede ser una gran carencia que habilidades por su forma de tratar a los
+digamos que a lo mejor si los tiene pero habilidades por su forma de tratar a los demás y entra a una ética personal que
 
 # Original Transcript
 [[AV_85dV4-S8]]
