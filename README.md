@@ -21,6 +21,21 @@ Provide the channel identifier to start the extraction process:
 python main.py --channel "CHANNEL_ID"
 ```
 
+1. Run extraction:
+```bash
+python src/extract.py
+```
+
+2. Run classification:
+```bash
+python src/classify.py
+```
+
+## Results
+- **Transcripts**: `obsidian_vault/transcripts/`
+- **Classified Topics & Summaries**: `obsidian_vault/classified/`
+- **Ontology View**: `obsidian_vault/ONTOLOGY.md`
+
 ## Project Structure
 - `src/extract.py`: Handles downloading and saving transcripts from YouTube.
 - `src/classify.py`: Handles classifying the extracted transcripts.
