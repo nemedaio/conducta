@@ -5,7 +5,7 @@ date: Unknown Date
 topics: ["General"]
 ---
 # Summary
-da seguridad y esto viene de las alimentos y esto hace que nos fuésemos es intimidad como hablas con el grupo y
+da seguridad y esto viene de las es intimidad como hablas con el grupo y grupos son los tuyos de pertenencia que
 
 # Original Transcript
 [[6cBXeddaJbM]]

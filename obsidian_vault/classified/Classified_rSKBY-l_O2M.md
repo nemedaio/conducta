@@ -5,7 +5,7 @@ date: Unknown Date
 topics: ["Conductismo", "Psicología Cognitiva", "Psicoanálisis", "Psicología del Desarrollo"]
 ---
 # Summary
-uno una pareja que era amiga suya y les eso no hace falta ser el número uno del dejar de ser un top a en el tenis, ¿de
+eso no hace falta ser el número uno del dejar de ser un top a en el tenis, ¿de imagen de que hace muy bien las cosas y
 
 # Original Transcript
 [[rSKBY-l_O2M]]

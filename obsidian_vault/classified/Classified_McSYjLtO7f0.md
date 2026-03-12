@@ -5,7 +5,7 @@ date: Unknown Date
 topics: ["Psicología Cognitiva"]
 ---
 # Summary
-vuelvo a decir lo mismo no es bueno ni ser camaleónico porque te va a dar venderte a ti lo que tú quieres escuchar
+vuelvo a decir lo mismo no es bueno ni venderte a ti lo que tú quieres escuchar malo si depende de la honestidad que
 
 # Original Transcript
 [[McSYjLtO7f0]]

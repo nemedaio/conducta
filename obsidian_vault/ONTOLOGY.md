@@ -2,20 +2,25 @@
 
 ## Conductismo
 - [[Classified_rSKBY-l_O2M]] | Unknown Date | Video rSKBY-l_O2M
+- [[Classified_TkNI3BLAvYI]] | Unknown Date | Video TkNI3BLAvYI
 - [[Classified_ujnZS5zGQ4E]] | Unknown Date | Video ujnZS5zGQ4E
 - [[Classified_nVEFgICNztk]] | Unknown Date | Video nVEFgICNztk
+- [[Classified_efR-AH5OlC4]] | Unknown Date | Video efR-AH5OlC4
 - [[Classified_MR6GYCuxRJQ]] | Unknown Date | Video MR6GYCuxRJQ
 - [[Classified_92VjHF3Dj4s]] | Unknown Date | Video 92VjHF3Dj4s
 - [[Classified_HB0tzzEyqAM]] | Unknown Date | Video HB0tzzEyqAM
 - [[Classified_rbIyJvJ7PWs]] | Unknown Date | Video rbIyJvJ7PWs
 - [[Classified_FPb6mgBzMFU]] | Unknown Date | Video FPb6mgBzMFU
+- [[Classified_HlwvmhugMfY]] | Unknown Date | Video HlwvmhugMfY
 - [[Classified_E5H9qw2OWUE]] | Unknown Date | Video E5H9qw2OWUE
 - [[Classified_ae6XDGByV5c]] | Unknown Date | Video ae6XDGByV5c
 - [[Classified_JMg24UiMq2g]] | Unknown Date | Video JMg24UiMq2g
+- [[Classified_Sr8H14oLA9A]] | Unknown Date | Video Sr8H14oLA9A
 - [[Classified_vW4xM0H93gM]] | Unknown Date | Video vW4xM0H93gM
 - [[Classified_CV1B6CDClRU]] | Unknown Date | Video CV1B6CDClRU
 - [[Classified_qYJqSr7A5kc]] | Unknown Date | Video qYJqSr7A5kc
 - [[Classified_nj6TNdf18xM]] | Unknown Date | Video nj6TNdf18xM
+- [[Classified_eSEnT1b-0XM]] | Unknown Date | Video eSEnT1b-0XM
 - [[Classified_i8ksBggpJR0]] | Unknown Date | Video i8ksBggpJR0
 - [[Classified_Z3tcqLxGmas]] | Unknown Date | Video Z3tcqLxGmas
 - [[Classified_GDeR21s3OLE]] | Unknown Date | Video GDeR21s3OLE
@@ -26,6 +31,7 @@
 - [[Classified_Z1mkMgRS2os]] | Unknown Date | Video Z1mkMgRS2os
 - [[Classified_q6LZmp-zXG0]] | Unknown Date | Video q6LZmp-zXG0
 - [[Classified_WmcC9y2G7ig]] | Unknown Date | Video WmcC9y2G7ig
+- [[Classified_vPzNOC5Yfpk]] | Unknown Date | Video vPzNOC5Yfpk
 - [[Classified_-105UXcvVwA]] | Unknown Date | Video -105UXcvVwA
 - [[Classified_4ijsFI0wYWQ]] | Unknown Date | Video 4ijsFI0wYWQ
 - [[Classified_3wXCNg6GmMk]] | Unknown Date | Video 3wXCNg6GmMk
@@ -34,49 +40,75 @@
 - [[Classified_ca4Bmu-XV2s]] | Unknown Date | Video ca4Bmu-XV2s
 - [[Classified_gCXi77GQUb4]] | Unknown Date | Video gCXi77GQUb4
 - [[Classified_JT3X7RsLLTw]] | Unknown Date | Video JT3X7RsLLTw
+- [[Classified_pEfEpR6f2LE]] | Unknown Date | Video pEfEpR6f2LE
 
 ## Psicología Cognitiva
 - [[Classified_jPyDyi9_uTk]] | Unknown Date | Video jPyDyi9_uTk
+- [[Classified_ZCWj_MuH-ds]] | Unknown Date | Video ZCWj_MuH-ds
 - [[Classified_rSKBY-l_O2M]] | Unknown Date | Video rSKBY-l_O2M
+- [[Classified_yxGXPqb5WqI]] | Unknown Date | Video yxGXPqb5WqI
+- [[Classified_TkNI3BLAvYI]] | Unknown Date | Video TkNI3BLAvYI
 - [[Classified_bejscUSJecU]] | Unknown Date | Video bejscUSJecU
 - [[Classified_ujnZS5zGQ4E]] | Unknown Date | Video ujnZS5zGQ4E
 - [[Classified_QuPZYZztxNA]] | Unknown Date | Video QuPZYZztxNA
+- [[Classified_R_5W1Sm6WaA]] | Unknown Date | Video R_5W1Sm6WaA
 - [[Classified_nVEFgICNztk]] | Unknown Date | Video nVEFgICNztk
+- [[Classified_-M8SUHRILig]] | Unknown Date | Video -M8SUHRILig
 - [[Classified_9u7x4Ify4Ys]] | Unknown Date | Video 9u7x4Ify4Ys
 - [[Classified_Ok8mk0uyfSw]] | Unknown Date | Video Ok8mk0uyfSw
+- [[Classified_efR-AH5OlC4]] | Unknown Date | Video efR-AH5OlC4
 - [[Classified_VJqhEViuk7c]] | Unknown Date | Video VJqhEViuk7c
 - [[Classified_bXxU1iKQn5M]] | Unknown Date | Video bXxU1iKQn5M
+- [[Classified_cxU1jiTk8A0]] | Unknown Date | Video cxU1jiTk8A0
 - [[Classified_MR6GYCuxRJQ]] | Unknown Date | Video MR6GYCuxRJQ
+- [[Classified_PC8h_ciuW2s]] | Unknown Date | Video PC8h_ciuW2s
 - [[Classified_92VjHF3Dj4s]] | Unknown Date | Video 92VjHF3Dj4s
+- [[Classified_SKreUbUe4uc]] | Unknown Date | Video SKreUbUe4uc
 - [[Classified_hBOlS00S5zU]] | Unknown Date | Video hBOlS00S5zU
+- [[Classified_3UTLo_81Xbo]] | Unknown Date | Video 3UTLo_81Xbo
 - [[Classified_Q0pvpfI78g4]] | Unknown Date | Video Q0pvpfI78g4
 - [[Classified_Dvsfci4_0UY]] | Unknown Date | Video Dvsfci4_0UY
 - [[Classified_HB0tzzEyqAM]] | Unknown Date | Video HB0tzzEyqAM
 - [[Classified_rbIyJvJ7PWs]] | Unknown Date | Video rbIyJvJ7PWs
 - [[Classified_LyVQHev2H4M]] | Unknown Date | Video LyVQHev2H4M
+- [[Classified_HlwvmhugMfY]] | Unknown Date | Video HlwvmhugMfY
 - [[Classified_E5H9qw2OWUE]] | Unknown Date | Video E5H9qw2OWUE
 - [[Classified_BMt7arnEa1M]] | Unknown Date | Video BMt7arnEa1M
 - [[Classified_ae6XDGByV5c]] | Unknown Date | Video ae6XDGByV5c
+- [[Classified_G7mJxEyOVNc]] | Unknown Date | Video G7mJxEyOVNc
 - [[Classified_EyhNQ5Fg8G4]] | Unknown Date | Video EyhNQ5Fg8G4
 - [[Classified_JMg24UiMq2g]] | Unknown Date | Video JMg24UiMq2g
+- [[Classified_T3n4Eh0AZAM]] | Unknown Date | Video T3n4Eh0AZAM
 - [[Classified_HglaNVyfOGA]] | Unknown Date | Video HglaNVyfOGA
+- [[Classified_uKwiq0W-IIk]] | Unknown Date | Video uKwiq0W-IIk
 - [[Classified_RtnsJCYnIho]] | Unknown Date | Video RtnsJCYnIho
 - [[Classified_O1q47Q2KnoQ]] | Unknown Date | Video O1q47Q2KnoQ
 - [[Classified_t5LwBUyHdOE]] | Unknown Date | Video t5LwBUyHdOE
+- [[Classified_0850zU08LZc]] | Unknown Date | Video 0850zU08LZc
+- [[Classified_Q5oFdPYzY64]] | Unknown Date | Video Q5oFdPYzY64
+- [[Classified_NR6DHfhj7Sw]] | Unknown Date | Video NR6DHfhj7Sw
 - [[Classified_fyGgo-q8RuY]] | Unknown Date | Video fyGgo-q8RuY
+- [[Classified_Z8e7DRBFNk0]] | Unknown Date | Video Z8e7DRBFNk0
 - [[Classified_eEll0ywICQU]] | Unknown Date | Video eEll0ywICQU
 - [[Classified_ynfb_H79YDo]] | Unknown Date | Video ynfb_H79YDo
 - [[Classified_vD2jWjGWdR0]] | Unknown Date | Video vD2jWjGWdR0
 - [[Classified_vW4xM0H93gM]] | Unknown Date | Video vW4xM0H93gM
+- [[Classified_7EPVMllxyJA]] | Unknown Date | Video 7EPVMllxyJA
 - [[Classified_CV1B6CDClRU]] | Unknown Date | Video CV1B6CDClRU
 - [[Classified_qYJqSr7A5kc]] | Unknown Date | Video qYJqSr7A5kc
+- [[Classified_cDIUQUNG04M]] | Unknown Date | Video cDIUQUNG04M
 - [[Classified_KljgLblLsA8]] | Unknown Date | Video KljgLblLsA8
 - [[Classified_nj6TNdf18xM]] | Unknown Date | Video nj6TNdf18xM
+- [[Classified_Dwg_XcaO400]] | Unknown Date | Video Dwg_XcaO400
+- [[Classified_eSEnT1b-0XM]] | Unknown Date | Video eSEnT1b-0XM
 - [[Classified_i8ksBggpJR0]] | Unknown Date | Video i8ksBggpJR0
 - [[Classified_o6Gk_EfCB1g]] | Unknown Date | Video o6Gk_EfCB1g
 - [[Classified_q6G4vDxDpCQ]] | Unknown Date | Video q6G4vDxDpCQ
+- [[Classified_1dMbmDZxZNA]] | Unknown Date | Video 1dMbmDZxZNA
 - [[Classified_eso9hXBTaDA]] | Unknown Date | Video eso9hXBTaDA
+- [[Classified_AV_85dV4-S8]] | Unknown Date | Video AV_85dV4-S8
 - [[Classified_Z3tcqLxGmas]] | Unknown Date | Video Z3tcqLxGmas
+- [[Classified_Z-nx_3y8_ks]] | Unknown Date | Video Z-nx_3y8_ks
 - [[Classified_CPBtm9b_ZJ8]] | Unknown Date | Video CPBtm9b_ZJ8
 - [[Classified_K9nBs9ID6tU]] | Unknown Date | Video K9nBs9ID6tU
 - [[Classified_PRtA5CdYdN4]] | Unknown Date | Video PRtA5CdYdN4
@@ -87,31 +119,46 @@
 - [[Classified_wfNE_04jA2U]] | Unknown Date | Video wfNE_04jA2U
 - [[Classified_E521YaR4OL0]] | Unknown Date | Video E521YaR4OL0
 - [[Classified_BGHZpQfhpcA]] | Unknown Date | Video BGHZpQfhpcA
+- [[Classified_UsmYXw9Bniw]] | Unknown Date | Video UsmYXw9Bniw
 - [[Classified_O7PcRPci5UE]] | Unknown Date | Video O7PcRPci5UE
 - [[Classified_UO0fV2ZNh1g]] | Unknown Date | Video UO0fV2ZNh1g
+- [[Classified_3aNvKkxPtvk]] | Unknown Date | Video 3aNvKkxPtvk
 - [[Classified_HY4whjpikZA]] | Unknown Date | Video HY4whjpikZA
 - [[Classified_Z1mkMgRS2os]] | Unknown Date | Video Z1mkMgRS2os
 - [[Classified_VBo069U1jKU]] | Unknown Date | Video VBo069U1jKU
 - [[Classified_q6LZmp-zXG0]] | Unknown Date | Video q6LZmp-zXG0
 - [[Classified_WmcC9y2G7ig]] | Unknown Date | Video WmcC9y2G7ig
 - [[Classified_ZLOEbvWwwKE]] | Unknown Date | Video ZLOEbvWwwKE
+- [[Classified_vPzNOC5Yfpk]] | Unknown Date | Video vPzNOC5Yfpk
 - [[Classified_-105UXcvVwA]] | Unknown Date | Video -105UXcvVwA
+- [[Classified_T9zTQDzee94]] | Unknown Date | Video T9zTQDzee94
+- [[Classified_o5D9Xid_fE0]] | Unknown Date | Video o5D9Xid_fE0
 - [[Classified_m0KftBK0tfg]] | Unknown Date | Video m0KftBK0tfg
 - [[Classified_7AlLpZnVJpk]] | Unknown Date | Video 7AlLpZnVJpk
+- [[Classified_2daPKbClqYc]] | Unknown Date | Video 2daPKbClqYc
+- [[Classified_fUbGv-UFSf4]] | Unknown Date | Video fUbGv-UFSf4
 - [[Classified_4ijsFI0wYWQ]] | Unknown Date | Video 4ijsFI0wYWQ
 - [[Classified_nTIAaZ5P4e8]] | Unknown Date | Video nTIAaZ5P4e8
+- [[Classified_0uFMgTpbSGs]] | Unknown Date | Video 0uFMgTpbSGs
 - [[Classified_3wXCNg6GmMk]] | Unknown Date | Video 3wXCNg6GmMk
 - [[Classified_84J6RomVy54]] | Unknown Date | Video 84J6RomVy54
 - [[Classified_zSs8kqyIBK8]] | Unknown Date | Video zSs8kqyIBK8
+- [[Classified_e7_v9WRrohU]] | Unknown Date | Video e7_v9WRrohU
 - [[Classified_McSYjLtO7f0]] | Unknown Date | Video McSYjLtO7f0
 - [[Classified_7Aosu8T278E]] | Unknown Date | Video 7Aosu8T278E
+- [[Classified_Jq1TpO_MIcU]] | Unknown Date | Video Jq1TpO_MIcU
 - [[Classified_ca4Bmu-XV2s]] | Unknown Date | Video ca4Bmu-XV2s
 - [[Classified_oe92W8s3qLY]] | Unknown Date | Video oe92W8s3qLY
 - [[Classified_gCXi77GQUb4]] | Unknown Date | Video gCXi77GQUb4
 - [[Classified_JT3X7RsLLTw]] | Unknown Date | Video JT3X7RsLLTw
+- [[Classified_cXlm0NdiIGk]] | Unknown Date | Video cXlm0NdiIGk
+- [[Classified_UgIcwTfuAcY]] | Unknown Date | Video UgIcwTfuAcY
+- [[Classified_pEfEpR6f2LE]] | Unknown Date | Video pEfEpR6f2LE
 
 ## Psicoanálisis
+- [[Classified_ZCWj_MuH-ds]] | Unknown Date | Video ZCWj_MuH-ds
 - [[Classified_rSKBY-l_O2M]] | Unknown Date | Video rSKBY-l_O2M
+- [[Classified_TkNI3BLAvYI]] | Unknown Date | Video TkNI3BLAvYI
 - [[Classified_ujnZS5zGQ4E]] | Unknown Date | Video ujnZS5zGQ4E
 - [[Classified_QuPZYZztxNA]] | Unknown Date | Video QuPZYZztxNA
 - [[Classified_nVEFgICNztk]] | Unknown Date | Video nVEFgICNztk
@@ -119,6 +166,7 @@
 - [[Classified_bXxU1iKQn5M]] | Unknown Date | Video bXxU1iKQn5M
 - [[Classified_MR6GYCuxRJQ]] | Unknown Date | Video MR6GYCuxRJQ
 - [[Classified_92VjHF3Dj4s]] | Unknown Date | Video 92VjHF3Dj4s
+- [[Classified_SKreUbUe4uc]] | Unknown Date | Video SKreUbUe4uc
 - [[Classified_hBOlS00S5zU]] | Unknown Date | Video hBOlS00S5zU
 - [[Classified_HB0tzzEyqAM]] | Unknown Date | Video HB0tzzEyqAM
 - [[Classified_rbIyJvJ7PWs]] | Unknown Date | Video rbIyJvJ7PWs
@@ -128,13 +176,17 @@
 - [[Classified_JMg24UiMq2g]] | Unknown Date | Video JMg24UiMq2g
 - [[Classified_O1q47Q2KnoQ]] | Unknown Date | Video O1q47Q2KnoQ
 - [[Classified_fyGgo-q8RuY]] | Unknown Date | Video fyGgo-q8RuY
+- [[Classified_Z8e7DRBFNk0]] | Unknown Date | Video Z8e7DRBFNk0
 - [[Classified_vW4xM0H93gM]] | Unknown Date | Video vW4xM0H93gM
 - [[Classified_CV1B6CDClRU]] | Unknown Date | Video CV1B6CDClRU
 - [[Classified_qYJqSr7A5kc]] | Unknown Date | Video qYJqSr7A5kc
 - [[Classified_KljgLblLsA8]] | Unknown Date | Video KljgLblLsA8
 - [[Classified_nj6TNdf18xM]] | Unknown Date | Video nj6TNdf18xM
+- [[Classified_Dwg_XcaO400]] | Unknown Date | Video Dwg_XcaO400
+- [[Classified_eSEnT1b-0XM]] | Unknown Date | Video eSEnT1b-0XM
 - [[Classified_i8ksBggpJR0]] | Unknown Date | Video i8ksBggpJR0
 - [[Classified_o6Gk_EfCB1g]] | Unknown Date | Video o6Gk_EfCB1g
+- [[Classified_1dMbmDZxZNA]] | Unknown Date | Video 1dMbmDZxZNA
 - [[Classified_eso9hXBTaDA]] | Unknown Date | Video eso9hXBTaDA
 - [[Classified_CPBtm9b_ZJ8]] | Unknown Date | Video CPBtm9b_ZJ8
 - [[Classified_yB2e23xHdoI]] | Unknown Date | Video yB2e23xHdoI
@@ -148,7 +200,10 @@
 - [[Classified_q6LZmp-zXG0]] | Unknown Date | Video q6LZmp-zXG0
 - [[Classified_WmcC9y2G7ig]] | Unknown Date | Video WmcC9y2G7ig
 - [[Classified_ZLOEbvWwwKE]] | Unknown Date | Video ZLOEbvWwwKE
+- [[Classified_T9zTQDzee94]] | Unknown Date | Video T9zTQDzee94
+- [[Classified_o5D9Xid_fE0]] | Unknown Date | Video o5D9Xid_fE0
 - [[Classified_m0KftBK0tfg]] | Unknown Date | Video m0KftBK0tfg
+- [[Classified_2daPKbClqYc]] | Unknown Date | Video 2daPKbClqYc
 - [[Classified_4ijsFI0wYWQ]] | Unknown Date | Video 4ijsFI0wYWQ
 - [[Classified_3wXCNg6GmMk]] | Unknown Date | Video 3wXCNg6GmMk
 - [[Classified_84J6RomVy54]] | Unknown Date | Video 84J6RomVy54
@@ -159,6 +214,9 @@
 - [[Classified_JT3X7RsLLTw]] | Unknown Date | Video JT3X7RsLLTw
 
 ## Psicología de la Salud / Clínica
+- [[Classified_ZCWj_MuH-ds]] | Unknown Date | Video ZCWj_MuH-ds
+- [[Classified_yxGXPqb5WqI]] | Unknown Date | Video yxGXPqb5WqI
+- [[Classified_TkNI3BLAvYI]] | Unknown Date | Video TkNI3BLAvYI
 - [[Classified_ujnZS5zGQ4E]] | Unknown Date | Video ujnZS5zGQ4E
 - [[Classified_QuPZYZztxNA]] | Unknown Date | Video QuPZYZztxNA
 - [[Classified_nVEFgICNztk]] | Unknown Date | Video nVEFgICNztk
@@ -169,10 +227,13 @@
 - [[Classified_E5H9qw2OWUE]] | Unknown Date | Video E5H9qw2OWUE
 - [[Classified_ae6XDGByV5c]] | Unknown Date | Video ae6XDGByV5c
 - [[Classified_JMg24UiMq2g]] | Unknown Date | Video JMg24UiMq2g
+- [[Classified_0850zU08LZc]] | Unknown Date | Video 0850zU08LZc
+- [[Classified_Z8e7DRBFNk0]] | Unknown Date | Video Z8e7DRBFNk0
 - [[Classified_vW4xM0H93gM]] | Unknown Date | Video vW4xM0H93gM
 - [[Classified_CV1B6CDClRU]] | Unknown Date | Video CV1B6CDClRU
 - [[Classified_qYJqSr7A5kc]] | Unknown Date | Video qYJqSr7A5kc
 - [[Classified_nj6TNdf18xM]] | Unknown Date | Video nj6TNdf18xM
+- [[Classified_eSEnT1b-0XM]] | Unknown Date | Video eSEnT1b-0XM
 - [[Classified_i8ksBggpJR0]] | Unknown Date | Video i8ksBggpJR0
 - [[Classified_o6Gk_EfCB1g]] | Unknown Date | Video o6Gk_EfCB1g
 - [[Classified_CPBtm9b_ZJ8]] | Unknown Date | Video CPBtm9b_ZJ8
@@ -186,11 +247,13 @@
 - [[Classified_q6LZmp-zXG0]] | Unknown Date | Video q6LZmp-zXG0
 - [[Classified_ZLOEbvWwwKE]] | Unknown Date | Video ZLOEbvWwwKE
 - [[Classified_7AlLpZnVJpk]] | Unknown Date | Video 7AlLpZnVJpk
+- [[Classified_0uFMgTpbSGs]] | Unknown Date | Video 0uFMgTpbSGs
 - [[Classified_3wXCNg6GmMk]] | Unknown Date | Video 3wXCNg6GmMk
 - [[Classified_ca4Bmu-XV2s]] | Unknown Date | Video ca4Bmu-XV2s
 - [[Classified_JT3X7RsLLTw]] | Unknown Date | Video JT3X7RsLLTw
 
 ## Neuropsicología
+- [[Classified_TkNI3BLAvYI]] | Unknown Date | Video TkNI3BLAvYI
 - [[Classified_bejscUSJecU]] | Unknown Date | Video bejscUSJecU
 - [[Classified_ujnZS5zGQ4E]] | Unknown Date | Video ujnZS5zGQ4E
 - [[Classified_QuPZYZztxNA]] | Unknown Date | Video QuPZYZztxNA
@@ -200,6 +263,7 @@
 - [[Classified_bXxU1iKQn5M]] | Unknown Date | Video bXxU1iKQn5M
 - [[Classified_MR6GYCuxRJQ]] | Unknown Date | Video MR6GYCuxRJQ
 - [[Classified_92VjHF3Dj4s]] | Unknown Date | Video 92VjHF3Dj4s
+- [[Classified_SKreUbUe4uc]] | Unknown Date | Video SKreUbUe4uc
 - [[Classified_hBOlS00S5zU]] | Unknown Date | Video hBOlS00S5zU
 - [[Classified_HB0tzzEyqAM]] | Unknown Date | Video HB0tzzEyqAM
 - [[Classified_rbIyJvJ7PWs]] | Unknown Date | Video rbIyJvJ7PWs
@@ -208,6 +272,8 @@
 - [[Classified_ae6XDGByV5c]] | Unknown Date | Video ae6XDGByV5c
 - [[Classified_JMg24UiMq2g]] | Unknown Date | Video JMg24UiMq2g
 - [[Classified_O1q47Q2KnoQ]] | Unknown Date | Video O1q47Q2KnoQ
+- [[Classified_Q5oFdPYzY64]] | Unknown Date | Video Q5oFdPYzY64
+- [[Classified_NR6DHfhj7Sw]] | Unknown Date | Video NR6DHfhj7Sw
 - [[Classified_fyGgo-q8RuY]] | Unknown Date | Video fyGgo-q8RuY
 - [[Classified_eEll0ywICQU]] | Unknown Date | Video eEll0ywICQU
 - [[Classified_vW4xM0H93gM]] | Unknown Date | Video vW4xM0H93gM
@@ -215,6 +281,7 @@
 - [[Classified_qYJqSr7A5kc]] | Unknown Date | Video qYJqSr7A5kc
 - [[Classified_KljgLblLsA8]] | Unknown Date | Video KljgLblLsA8
 - [[Classified_nj6TNdf18xM]] | Unknown Date | Video nj6TNdf18xM
+- [[Classified_eSEnT1b-0XM]] | Unknown Date | Video eSEnT1b-0XM
 - [[Classified_i8ksBggpJR0]] | Unknown Date | Video i8ksBggpJR0
 - [[Classified_o6Gk_EfCB1g]] | Unknown Date | Video o6Gk_EfCB1g
 - [[Classified_CPBtm9b_ZJ8]] | Unknown Date | Video CPBtm9b_ZJ8
@@ -227,7 +294,9 @@
 - [[Classified_VBo069U1jKU]] | Unknown Date | Video VBo069U1jKU
 - [[Classified_q6LZmp-zXG0]] | Unknown Date | Video q6LZmp-zXG0
 - [[Classified_ZLOEbvWwwKE]] | Unknown Date | Video ZLOEbvWwwKE
+- [[Classified_o5D9Xid_fE0]] | Unknown Date | Video o5D9Xid_fE0
 - [[Classified_m0KftBK0tfg]] | Unknown Date | Video m0KftBK0tfg
+- [[Classified_2daPKbClqYc]] | Unknown Date | Video 2daPKbClqYc
 - [[Classified_4ijsFI0wYWQ]] | Unknown Date | Video 4ijsFI0wYWQ
 - [[Classified_IR2rjECjwzQ]] | Unknown Date | Video IR2rjECjwzQ
 - [[Classified_84J6RomVy54]] | Unknown Date | Video 84J6RomVy54
@@ -239,7 +308,9 @@
 
 ## Psicología del Desarrollo
 - [[Classified_jPyDyi9_uTk]] | Unknown Date | Video jPyDyi9_uTk
+- [[Classified_ZCWj_MuH-ds]] | Unknown Date | Video ZCWj_MuH-ds
 - [[Classified_rSKBY-l_O2M]] | Unknown Date | Video rSKBY-l_O2M
+- [[Classified_TkNI3BLAvYI]] | Unknown Date | Video TkNI3BLAvYI
 - [[Classified_ujnZS5zGQ4E]] | Unknown Date | Video ujnZS5zGQ4E
 - [[Classified_nVEFgICNztk]] | Unknown Date | Video nVEFgICNztk
 - [[Classified_MR6GYCuxRJQ]] | Unknown Date | Video MR6GYCuxRJQ
@@ -251,8 +322,10 @@
 - [[Classified_CV1B6CDClRU]] | Unknown Date | Video CV1B6CDClRU
 - [[Classified_qYJqSr7A5kc]] | Unknown Date | Video qYJqSr7A5kc
 - [[Classified_nj6TNdf18xM]] | Unknown Date | Video nj6TNdf18xM
+- [[Classified_eSEnT1b-0XM]] | Unknown Date | Video eSEnT1b-0XM
 - [[Classified_i8ksBggpJR0]] | Unknown Date | Video i8ksBggpJR0
 - [[Classified_Z3tcqLxGmas]] | Unknown Date | Video Z3tcqLxGmas
+- [[Classified_Z-nx_3y8_ks]] | Unknown Date | Video Z-nx_3y8_ks
 - [[Classified_CPBtm9b_ZJ8]] | Unknown Date | Video CPBtm9b_ZJ8
 - [[Classified_yB2e23xHdoI]] | Unknown Date | Video yB2e23xHdoI
 - [[Classified_-s85_A8-3s8]] | Unknown Date | Video -s85_A8-3s8
@@ -268,6 +341,7 @@
 - [[Classified_zSs8kqyIBK8]] | Unknown Date | Video zSs8kqyIBK8
 - [[Classified_oe92W8s3qLY]] | Unknown Date | Video oe92W8s3qLY
 - [[Classified_JT3X7RsLLTw]] | Unknown Date | Video JT3X7RsLLTw
+- [[Classified_UgIcwTfuAcY]] | Unknown Date | Video UgIcwTfuAcY
 
 ## Epistemología y Ciencia
 - [[Classified_ujnZS5zGQ4E]] | Unknown Date | Video ujnZS5zGQ4E
@@ -295,7 +369,11 @@
 ## General
 - [[Classified_MGfOpiwbJ1c]] | Unknown Date | Video MGfOpiwbJ1c
 - [[Classified_hYH0DqiXk6w]] | Unknown Date | Video hYH0DqiXk6w
+- [[Classified_GLu95BlbKCk]] | Unknown Date | Video GLu95BlbKCk
+- [[Classified_6GAMN0GYT7w]] | Unknown Date | Video 6GAMN0GYT7w
 - [[Classified_t-ekRv43XGE]] | Unknown Date | Video t-ekRv43XGE
 - [[Classified_fYQC8mLDxbg]] | Unknown Date | Video fYQC8mLDxbg
 - [[Classified_6cBXeddaJbM]] | Unknown Date | Video 6cBXeddaJbM
+- [[Classified_z4i-fo5w6CU]] | Unknown Date | Video z4i-fo5w6CU
+- [[Classified_ssm2cw16EiI]] | Unknown Date | Video ssm2cw16EiI
 
