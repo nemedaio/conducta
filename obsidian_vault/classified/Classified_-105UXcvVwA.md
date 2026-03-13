@@ -5,7 +5,7 @@ date: Unknown Date
 topics: ["Conductismo", "Psicología Cognitiva"]
 ---
 # Summary
-bien Dice el entrenamiento No pues eso ejercitar algo no Y la mente que yo creo es un proceso que gestiona dos cosas muy
+entrena o qué es esto del entrenamiento ejercitar algo no Y la mente que yo creo es un proceso que gestiona dos cosas muy
 
 # Original Transcript
 [[-105UXcvVwA]]

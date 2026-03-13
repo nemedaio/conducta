@@ -5,7 +5,7 @@ date: Unknown Date
 topics: ["Psicología Cognitiva", "Psicología del Desarrollo"]
 ---
 # Summary
-entonces pues lo que se hace en los vayan todos por los mismos pero bueno decir lo mismo es que yo cuando estoy
+se está trabajando muy bien con los entonces pues lo que se hace en los decir lo mismo es que yo cuando estoy
 
 # Original Transcript
 [[wOaIohPADLU]]

@@ -1,11 +1,11 @@
 ---
-id: q6LZmp-zXG0
-title: "Video q6LZmp-zXG0"
+id: 0KsmReqOVMM
+title: "Video 0KsmReqOVMM"
 date: Unknown Date
 topics: ["Conductismo", "Psicología Cognitiva", "Psicoanálisis", "Psicología de la Salud / Clínica", "Neuropsicología", "Psicología del Desarrollo", "Epistemología y Ciencia"]
 ---
 # Summary
-ella le gustaba y se lo metía en la boca otras cosas y que no voy a tener el peso sano y es bueno cuando yo lo hago a una
+y vamos a ver yo entiendo que por qué es cuando llega a un punto en el cual tú ya los demás es mucho y que a la vez tú ves
 
 # Original Transcript
-[[q6LZmp-zXG0]]
+[[0KsmReqOVMM]]

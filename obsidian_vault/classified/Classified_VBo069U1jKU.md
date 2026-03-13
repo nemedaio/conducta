@@ -5,7 +5,7 @@ date: Unknown Date
 topics: ["Psicología Cognitiva", "Psicoanálisis", "Psicología de la Salud / Clínica", "Neuropsicología", "Epistemología y Ciencia"]
 ---
 # Summary
-niño qué es lo que quiere hacer o sea tú una opinión y decir Oye a mí esto me fue va a vivir eso Y sobre todo la que lo
+hacen No cuando el niño y la niña te lo las manos y en los pies o sea todo tiene que te da no lo haría O sea yo siempre
 
 # Original Transcript
 [[VBo069U1jKU]]

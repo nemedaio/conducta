@@ -5,7 +5,7 @@ date: Unknown Date
 topics: ["Conductismo", "Psicología Cognitiva", "Psicoanálisis", "Neuropsicología", "Psicología del Desarrollo"]
 ---
 # Summary
-todo el mundo, pero es que este no se me va a olvidar en la vida y no lo subí. sesión con ellos a los tr cu días y ese
+primero y tú si no sabes ni la gente que he visto en París a un tío hacer crep de todo el mundo, pero es que este no se me
 
 # Original Transcript
 [[Z1mkMgRS2os]]
