@@ -1,11 +1,11 @@
 ---
-id: jgCW3fN4wnI
-title: "Video jgCW3fN4wnI"
+id: qrrI98xrL3Y
+title: "Video qrrI98xrL3Y"
 date: Unknown Date
 topics: ["Conductismo", "Psicología Cognitiva", "Psicoanálisis", "Psicología de la Salud / Clínica", "Neuropsicología"]
 ---
 # Summary
-de tu vida no son como tú has querido y cosa si tú cada vez que me ves a mí persona a una de las dos y por detrás se
+mío o si me lo he cruzado yo puedo estar de lope díaz se lo pedía y me iba porque y no voy a salir de este teatro en el
 
 # Original Transcript
-[[jgCW3fN4wnI]]
+[[qrrI98xrL3Y]]

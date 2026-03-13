@@ -5,7 +5,7 @@ date: Unknown Date
 topics: ["Psicología Cognitiva"]
 ---
 # Summary
-y que importante es el entorno a la hora soy si tú te comparas con los demás para enfoque es que tengas a tu lado y de
+un niño que es muy malo en algo genera y que importante es el entorno a la hora soy si tú te comparas con los demás para
 
 # Original Transcript
 [[7Aosu8T278E]]

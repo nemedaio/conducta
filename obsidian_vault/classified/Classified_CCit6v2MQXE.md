@@ -1,11 +1,11 @@
 ---
-id: vW4xM0H93gM
-title: "Video vW4xM0H93gM"
+id: CCit6v2MQXE
+title: "Video CCit6v2MQXE"
 date: Unknown Date
 topics: ["Conductismo", "Psicología Cognitiva", "Psicoanálisis", "Psicología de la Salud / Clínica", "Neuropsicología", "Psicología del Desarrollo", "Epistemología y Ciencia"]
 ---
 # Summary
-yo le he dicho a mi hijo me da igual lo su hijo en el coche y lo va a recoger al y el resto se pasa a otros estados o ni
+más da lo que tiene a la otra parte tú la cantidad que yo te dé a ti o no tú te pregunto antes de ir a él es una guía
 
 # Original Transcript
-[[vW4xM0H93gM]]
+[[CCit6v2MQXE]]

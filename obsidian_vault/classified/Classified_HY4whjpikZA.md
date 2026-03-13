@@ -5,7 +5,7 @@ date: Unknown Date
 topics: ["Psicología Cognitiva", "Neuropsicología"]
 ---
 # Summary
-esto vale lo guardo vamos a verla la cerebro no es capaz de percibir toda la quién eres ya partir de ahí crear una
+esto vale lo guardo vamos a verla la quién eres ya partir de ahí crear una autoestima lo dan los datos que tú has
 
 # Original Transcript
 [[HY4whjpikZA]]

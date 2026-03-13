@@ -5,7 +5,7 @@ date: Unknown Date
 topics: ["Psicología Cognitiva", "Psicoanálisis", "Psicología de la Salud / Clínica", "Neuropsicología", "Epistemología y Ciencia"]
 ---
 # Summary
-cosa que para mí no tiene el resto y es lo que tú haces O sea al final yo eh si no te subes a un avión si luego oa sí lo
+lo que tú haces O sea al final yo eh si tú no puedes O sea cuando un amater va a no te subes a un avión si luego oa sí lo
 
 # Original Transcript
 [[o6Gk_EfCB1g]]

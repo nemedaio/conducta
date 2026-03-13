@@ -1,11 +1,11 @@
 ---
-id: HB0tzzEyqAM
-title: "Video HB0tzzEyqAM"
+id: v5BdGSB9PEo
+title: "Video v5BdGSB9PEo"
 date: Unknown Date
 topics: ["Conductismo", "Psicología Cognitiva", "Psicoanálisis", "Psicología de la Salud / Clínica", "Neuropsicología", "Psicología del Desarrollo"]
 ---
 # Summary
-comete un error y se le pregunta por ese niño cada vez que tire algo yo se lo cosa y es eh que el error no existe.
+bueno vale si lo ponemos así sí a ver la de sí da como tal que no es una persona tuya y la marca es tu a partir de los
 
 # Original Transcript
-[[HB0tzzEyqAM]]
+[[v5BdGSB9PEo]]

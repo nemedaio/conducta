@@ -5,7 +5,7 @@ date: Unknown Date
 topics: ["Psicología Cognitiva"]
 ---
 # Summary
-ese día vas a saber lo que es la maldad al final todo va hacia la huida de los cual es como una droga porque me la voy
+vale pues yo lo primero que haría sea un ese día vas a saber lo que es la maldad al final todo va hacia la huida de los
 
 # Original Transcript
 [[fUbGv-UFSf4]]

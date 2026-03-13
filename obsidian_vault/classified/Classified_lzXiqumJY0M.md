@@ -1,11 +1,11 @@
 ---
-id: vW4xM0H93gM
-title: "Video vW4xM0H93gM"
+id: lzXiqumJY0M
+title: "Video lzXiqumJY0M"
 date: Unknown Date
 topics: ["Conductismo", "Psicología Cognitiva", "Psicoanálisis", "Psicología de la Salud / Clínica", "Neuropsicología", "Psicología del Desarrollo", "Epistemología y Ciencia"]
 ---
 # Summary
-yo le he dicho a mi hijo me da igual lo su hijo en el coche y lo va a recoger al y el resto se pasa a otros estados o ni
+ni que el resto te entienda a ti con lo de sí pero a lo mejor la persona te dice diciendo sea la misma sí pero a mí no me
 
 # Original Transcript
-[[vW4xM0H93gM]]
+[[lzXiqumJY0M]]

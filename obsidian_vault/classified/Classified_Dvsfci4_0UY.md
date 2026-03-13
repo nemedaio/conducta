@@ -5,7 +5,7 @@ date: Unknown Date
 topics: ["Psicología Cognitiva"]
 ---
 # Summary
-todas las áreas de tu vida o digamos que determinado músculo no entrenas todo el procesos dependiendo de cuál A lo mejor
+cuando se hace este entrenamiento es todas las áreas de tu vida o digamos que procesos dependiendo de cuál A lo mejor
 
 # Original Transcript
 [[Dvsfci4_0UY]]

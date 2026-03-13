@@ -5,7 +5,7 @@ date: Unknown Date
 topics: ["Psicología Cognitiva"]
 ---
 # Summary
-para así destacar por encima de haber yo montaña puede venir a ti no como decía muy alto pues son artistas tipo ve claro
+para así destacar por encima de haber yo serlo pero qué pasa si encima de ser va a cubrir de esa necesidad que tiene
 
 # Original Transcript
 [[oHu8fEF1aTU]]

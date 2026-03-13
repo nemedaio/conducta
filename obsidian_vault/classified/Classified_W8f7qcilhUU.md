@@ -5,7 +5,7 @@ date: Unknown Date
 topics: ["Psicoanálisis"]
 ---
 # Summary
-es más complicado que con un niño de diga su diccionario no la van a vivir y nombre el ha puesto y luego eso se
+tan cerrado en un adulto esto está mucho diga su diccionario no la van a vivir y ahora tú le vas a tocar el diccionario
 
 # Original Transcript
 [[W8f7qcilhUU]]
