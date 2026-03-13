@@ -5,7 +5,7 @@ date: Unknown Date
 topics: ["General"]
 ---
 # Summary
-sea blanco sino porque a ti de pequeño los sitios se saluda y eso que es ser saludan no es la regla capitán puesto en
+los sitios se saluda y eso que es ser educado y con autores mayor va a evaluar saludan no es la regla capitán puesto en
 
 # Original Transcript
 [[KCqjW1NyhRQ]]

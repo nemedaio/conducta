@@ -1,11 +1,11 @@
 ---
-id: 92VjHF3Dj4s
-title: "Video 92VjHF3Dj4s"
+id: jgCW3fN4wnI
+title: "Video jgCW3fN4wnI"
 date: Unknown Date
 topics: ["Conductismo", "Psicología Cognitiva", "Psicoanálisis", "Psicología de la Salud / Clínica", "Neuropsicología"]
 ---
 # Summary
-esto Hazlo No el lunes te va a pasar y música a tope y me decían Cómo digo Sí porque tú estudias en tu casa y te dicen
+de tu vida no son como tú has querido y cosa si tú cada vez que me ves a mí cada vez que yo te veo se le pone mala
 
 # Original Transcript
-[[92VjHF3Dj4s]]
+[[jgCW3fN4wnI]]

@@ -5,7 +5,7 @@ date: Unknown Date
 topics: ["Psicología Cognitiva"]
 ---
 # Summary
-porque te das cuenta de que todavía no lo sabes todo claro de que el camino es vez está más lejos el fin claro porque
+una frase que es solamente los sabios y de la ignorancia y empiezas a saber algo lo sabes todo claro de que el camino es
 
 # Original Transcript
 [[HglaNVyfOGA]]
